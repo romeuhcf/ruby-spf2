@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["romeu.hcf@gmail.com"]
   spec.description   = %q{Native libspf2 basic wrapper}
   spec.summary       = %q{Simple query interface to native libspf2. Will be more complete later.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/romeuhcf/ruby-spf2"
   spec.license       = "MIT"
 
   spec.extensions = %w[ext/spf2/extconf.rb]
